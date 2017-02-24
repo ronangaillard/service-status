@@ -16,6 +16,10 @@ var apps = {
     {
         url: 'http://state.ronangaillard.fr',
         name: 'State front end'
+    },
+    {
+        url: 'http://138.68.99.50:5678',
+        name: 'Git webhook for state/status pageß'
     }
     ]
 }
