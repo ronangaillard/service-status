@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
          <Pager>
-          <h2>State manager test</h2>
+          <h2>State manager test2</h2>
           <h5>Shows the state of my web services running on my digital ocean machine</h5>
           </Pager>
           <Grid>
