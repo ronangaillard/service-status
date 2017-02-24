@@ -18,8 +18,8 @@ var apps = {
         name: 'State front end'
     },
     {
-        url: 'http://138.68.99.50:5678',
-        name: 'Git webhook for state/status pageß'
+        url: 'http://ronangaillard.fr:8080',
+        name: 'Jenkins'
     }
     ]
 }
